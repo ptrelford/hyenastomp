@@ -1,0 +1,8 @@
+<OutOfBrowserSettings ShortName="Modern Art" EnableGPUAcceleration="True" ShowInstallMenuItem="True">
+  <OutOfBrowserSettings.Blurb>Art on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+  <OutOfBrowserSettings.WindowSettings>
+    <WindowSettings Title="Modern Art" Width="494" Height="494" />
+  </OutOfBrowserSettings.WindowSettings>
+  <OutOfBrowserSettings.Icons>
+  </OutOfBrowserSettings.Icons>
+</OutOfBrowserSettings>
